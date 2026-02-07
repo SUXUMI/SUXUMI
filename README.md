@@ -73,11 +73,7 @@ Welcome to my personal playground! While this is my main account, I also contrib
 <table class="my-table">
   <tr>
     <td>
-      <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=github-dark-blue&border=transparent"> -->
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default&border=transparent"> -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default&hide_border=true" height="150">
-</picture>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&hide_border=true&card_height=150" alt="GitHub Streak" />
     </td>
     <td>
       <img src="/metrics-calendar_suxumi.svg" alt="Contribution Calendar" height="150">
@@ -100,12 +96,7 @@ Welcome to my personal playground! While this is my main account, I also contrib
 <table>
   <tr>
     <td>
-<picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&theme=github-dark-blue&border=transparent"> -->
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&theme=default&border=transparent"> -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default&hide_border=true" height="150">
-</picture>
-</picture>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&hide_border=true&card_height=150" alt="GitHub Streak" />
     </td>
     <td>
       <img src="/metrics-calendar_grigolt-ldi.svg" alt="Contribution Calendar" height="150">
@@ -116,3 +107,5 @@ Welcome to my personal playground! While this is my main account, I also contrib
 <!-- <img src="/metrics-calendar_grigolt-ldi.svg" alt="Contribution Calendar"> -->
 <!-- <img src="/metrics-languages_grigolt-ldi.svg" alt="Language Breakdown"> -->
 <!-- <img src="/metrics-achievements_grigolt-ldi.svg" alt="Achievements"> -->
+
+<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
