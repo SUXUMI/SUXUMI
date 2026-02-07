@@ -66,6 +66,9 @@ Welcome to my personal playground! While this is my main account, I also contrib
   table#my-table td {
     border: none;
   }
+  table td {
+    border: none;
+  }
 </style>
 
 ### Streak
