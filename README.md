@@ -71,16 +71,16 @@ Welcome to my personal playground! While this is my main account, I also contrib
 </div>
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td>
+    <td style="border: 0px; padding-left: 0;">
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=github-dark-blue&border=30363d">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default" height="150">
 </picture>
     </td>
-    <td>
+    <td style="border: 0px;">
       <img src="/metrics-calendar_suxumi.svg" alt="Contribution Calendar" height="150">
     </td>
   </tr>
@@ -101,7 +101,7 @@ Welcome to my personal playground! While this is my main account, I also contrib
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td style="border: 0px; padding-left: 0;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&theme=github-dark-blue&border=30363d">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&theme=default">
@@ -109,7 +109,7 @@ Welcome to my personal playground! While this is my main account, I also contrib
 </picture>
 </picture>
     </td>
-    <td>
+    <td style="border: 0px;">
       <img src="/metrics-calendar_grigolt-ldi.svg" alt="Contribution Calendar" height="150">
     </td>
   </tr>
