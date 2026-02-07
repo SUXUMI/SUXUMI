@@ -76,7 +76,13 @@ Welcome to my personal playground! While this is my main account, I also contrib
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default">
 </picture>
 
+<img src="/metrics-calendar_suxumi.svg" alt="Contribution Calendar">
+<img src="/metrics-languages_suxumi.svg" alt="Language Breakdown">
+<img src="/metrics-achievements_suxumi.svg" alt="Achievements">
+
+
 <div style="margin-top: 20px;"></div>
+
 
 <div style="margin-bottom: -10px;">
 
@@ -90,18 +96,8 @@ Welcome to my personal playground! While this is my main account, I also contrib
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default">
 </picture>
 
-<!--
+<img src="/metrics-calendar_grigolt-ldi.svg" alt="Contribution Calendar">
+<img src="/metrics-languages_grigolt-ldi.svg" alt="Language Breakdown">
+<!-- <img src="/metrics-achievements_grigolt-ldi.svg" alt="Achievements"> -->
 
-==========================================================================
-  LOWLIGHTER/METRICS — Rich SVG Infographics (currently disabled)
-==========================================================================
 
-  To enable, uncomment the images below AND the GitHub Action at
-  .github/workflows/metrics.yml. You'll also need:
--->
-
-### Metrics
-
-<img src="/metrics-calendar.svg" alt="Contribution Calendar">
-<img src="/metrics-languages.svg" alt="Language Breakdown">
-<img src="/metrics-achievements.svg" alt="Achievements">
