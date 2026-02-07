@@ -71,20 +71,11 @@ Welcome to my personal playground! While this is my main account, I also contrib
 </div>
 
 
-<table>
-  <tr>
-    <td style="border: 0px !important; padding-left: 0;">
-      <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=github-dark-blue&border=30363d">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default" height="150">
-</picture>
-    </td>
-    <td style="border: 0px;">
-      <img src="/metrics-calendar_suxumi.svg" alt="Contribution Calendar" height="150">
-    </td>
-  </tr>
-</table>
+</picture><img src="/metrics-calendar_suxumi.svg" alt="Contribution Calendar" height="150">
 
 
 <!-- <img src="/metrics-calendar_suxumi.svg" alt="Contribution Calendar"> -->
