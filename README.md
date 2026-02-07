@@ -73,7 +73,7 @@ Welcome to my personal playground! While this is my main account, I also contrib
 
 <table>
   <tr>
-    <td style="border: 0px; padding-left: 0;">
+    <td style="border: 0px !important; padding-left: 0;">
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=github-dark-blue&border=30363d">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default">
