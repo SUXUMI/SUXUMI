@@ -62,15 +62,6 @@ Welcome to my personal playground! While this is my main account, I also contrib
 
 -->
 
-<style>
-  table#my-table td {
-    border: none;
-  }
-  table td {
-    border: none;
-  }
-</style>
-
 ### Streak
 
 <div style="margin-bottom: -10px;">
@@ -79,7 +70,11 @@ Welcome to my personal playground! While this is my main account, I also contrib
 
 </div>
 
-
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
 <table class="my-table">
   <tr>
     <td>
