@@ -76,7 +76,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN_GRIGOLTLDI }}
-          user: SUXUMI
+          user: grigolt-ldi
           template: classic
           base: ""
           filename: metrics-calendar_grigolt-ldi.svg
@@ -88,7 +88,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN_GRIGOLTLDI }}
-          user: SUXUMI
+          user: grigolt-ldi
           template: classic
           base: ""
           filename: metrics-languages_grigolt-ldi.svg
@@ -104,7 +104,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN_GRIGOLTLDI }}
-          user: SUXUMI
+          user: grigolt-ldi
           template: classic
           base: ""
           filename: metrics-achievements_grigolt-ldi.svg
