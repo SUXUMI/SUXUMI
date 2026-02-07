@@ -7,6 +7,9 @@ Welcome to my personal playground! While this is my main account, I also contrib
 - 🌐 **Personal Page:** [admin.ge](https://admin.ge)
 - 💼 **Portfolio:** [admin.ge/portfolio](https://admin.ge/portfolio)
 - 🐳 **Docker Hub:** [docker.com/u/suxumi](https://hub.docker.com/u/suxumi)
+- 🛠 **Tech Stack:** PHP, Laravel, Livewire, Filament, FluxUI, TailwindCSS
+- 🚀 **Specialties:** AI Integration (RAG on-premise), Server Provisioning & Management, Google Workspace Management, Corporate Software Development
+- 📧 **Contact:** [admin@admin.ge](mailto:admin@admin.ge)
 
 ---
 
