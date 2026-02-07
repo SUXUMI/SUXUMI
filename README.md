@@ -70,14 +70,9 @@ Welcome to my personal playground! While this is my main account, I also contrib
 
 </div>
 
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
 <table class="my-table">
   <tr>
-    <td>
+    <td style="border: 0;">
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=github-dark-blue&border=transparent">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default">
