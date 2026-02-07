@@ -69,13 +69,13 @@ Welcome to my personal playground! While this is my main account, I also contrib
 
 **[@SUXUMI](https://github.com/SUXUMI)**
 
-<img src="/metrics/calendar_suxumi.svg" alt="Contribution Calendar" height="200">
+<img src="/metrics/suxumi/calendar.svg" alt="Contribution Calendar" height="200">
     </td>
     <td>
 
 **[@grigolt-ldi](https://github.com/grigolt-ldi)**
 
-<img src="/metrics/calendar_grigolt-ldi.svg" alt="Contribution Calendar" height="200">
+<img src="/metrics/grigolt-ldi/calendar.svg" alt="Contribution Calendar" height="200">
     </td>
   </tr>
 </table>
