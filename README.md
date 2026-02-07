@@ -76,8 +76,8 @@ Welcome to my personal playground! While this is my main account, I also contrib
     <td>
       <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=github-dark-blue&border=transparent">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default&border=transparent">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default&border=transparent" height="150">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default" height="150">
 </picture>
     </td>
     <td>
@@ -105,7 +105,7 @@ Welcome to my personal playground! While this is my main account, I also contrib
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&theme=github-dark-blue&border=transparent">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&theme=default&border=transparent">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default&border=transparent" height="150">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default" height="150">
 </picture>
 </picture>
     </td>
