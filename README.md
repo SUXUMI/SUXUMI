@@ -62,7 +62,26 @@ Welcome to my personal playground! While this is my main account, I also contrib
 
 -->
 
-### Streak
+
+<table>
+  <tr>
+    <td>
+
+**[@SUXUMI](https://github.com/SUXUMI)**
+
+<img src="/metrics/calendar_suxumi.svg" alt="Contribution Calendar" height="200">
+    </td>
+    <td>
+
+**[@grigolt-ldi](https://github.com/grigolt-ldi)**
+
+<img src="/metrics/calendar_grigolt-ldi.svg" alt="Contribution Calendar" height="200">
+    </td>
+  </tr>
+</table>
+
+
+<!-- ### Streak
 
 <div style="margin-bottom: -10px;">
 
@@ -76,16 +95,16 @@ Welcome to my personal playground! While this is my main account, I also contrib
       <img src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&hide_border=true&card_height=200" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="/metrics-calendar_suxumi.svg" alt="Contribution Calendar" height="200">
+      <img src="/metrics/calendar_suxumi.svg" alt="Contribution Calendar" height="200">
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- <img src="/metrics-calendar_suxumi.svg" alt="Contribution Calendar"> -->
 <!-- <img src="/metrics-languages_suxumi.svg" alt="Language Breakdown"> -->
 <!-- <img src="/metrics-achievements_suxumi.svg" alt="Achievements"> -->
 
-<div style="margin-top: 20px;"></div>
+<!-- <div style="margin-top: 20px;"></div>
 
 <div style="margin-bottom: -10px;">
 
@@ -99,10 +118,10 @@ Welcome to my personal playground! While this is my main account, I also contrib
       <img src="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&hide_border=true&card_height=200" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="/metrics-calendar_grigolt-ldi.svg" alt="Contribution Calendar" height="200">
+      <img src="/metrics/calendar_grigolt-ldi.svg" alt="Contribution Calendar" height="200">
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- <img src="/metrics-calendar_grigolt-ldi.svg" alt="Contribution Calendar"> -->
 <!-- <img src="/metrics-languages_grigolt-ldi.svg" alt="Language Breakdown"> -->
