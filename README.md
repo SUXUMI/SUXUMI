@@ -71,7 +71,7 @@ Welcome to my personal playground! While this is my main account, I also contrib
 </div>
 
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <picture>
@@ -99,15 +99,14 @@ Welcome to my personal playground! While this is my main account, I also contrib
 
 </div>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&theme=github-dark-blue&border=30363d">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=grigolt-ldi&theme=default">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default">
-</picture height="150">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=SUXUMI&theme=default" height="150">
+</picture>
 </picture>
     </td>
     <td>
@@ -117,5 +116,5 @@ Welcome to my personal playground! While this is my main account, I also contrib
 </table>
 
 <!-- <img src="/metrics-calendar_grigolt-ldi.svg" alt="Contribution Calendar"> -->
-<img src="/metrics-languages_grigolt-ldi.svg" alt="Language Breakdown">
+<!-- <img src="/metrics-languages_grigolt-ldi.svg" alt="Language Breakdown"> -->
 <!-- <img src="/metrics-achievements_grigolt-ldi.svg" alt="Achievements"> -->
